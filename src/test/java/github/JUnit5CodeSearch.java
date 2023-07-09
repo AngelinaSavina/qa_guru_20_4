@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Browsers.CHROME;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 
-public class JUnit5_code_search {
+public class JUnit5CodeSearch {
 
     @BeforeAll
     static void beforeAll() {
